@@ -16,24 +16,6 @@
 </p>
 
 
-<p align="center">
-    <a href="https://spyboy.in/twitter">
-      <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://spyboy.in/">
-      <img src="https://img.shields.io/badge/-spyboy.in-black?logo=google&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://spyboy.blog/">
-      <img src="https://img.shields.io/badge/-spyboy.blog-black?logo=wordpress&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://spyboy.in/Discord">
-      <img src="https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge">
-    </a>
-  
-</p>
 
 <img width="100%" align="centre" src="https://github.com/spyboy-productions/CloakQuest3r/blob/main/image/cloakquest3r.png" />
 
@@ -76,9 +58,6 @@ With CloakQuest3r, you can confidently evaluate website security, unveil hidden 
 
 #### Featured:
 
-`CloakQuest3r` is one of the `Top 20 Most Popular Hacking Tools` in 2023 by `KitPloit`
-
-- [Top 20 Most Popular Hacking Tools in 2023](https://www.kitploit.com/2023/12/top-20-most-popular-hacking-tools-in.html)
 
 #### Limitation
 
